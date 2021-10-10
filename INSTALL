@@ -1,0 +1,9 @@
+Building Uselesscoin
+
+See doc/readme-qt.rst for instructions on building Uselesscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Uselesscoin.
+
+See doc/build-*.txt for instructions on building uselesscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Uselesscoin.
